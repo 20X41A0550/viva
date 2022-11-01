@@ -1,4 +1,3 @@
-# viva
 public class viva
 {
     public static void main(String[] args)
